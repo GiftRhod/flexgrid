@@ -1,0 +1,76 @@
+ {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: hsl(0, 0%, 95%);
+}
+main {
+  width: 1440px;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+    
+.first-content {
+ 
+  background-color: hsl(31, 77%, 52%);
+  padding: 1cm;
+  height: 35vh;
+}
+.first-content h4 {
+  color: hsl(0, 0%, 95%);
+  font-size: 15px;
+}
+.first-content p {
+  color: hsla(0, 0%, 100%, 0.75);
+  font-size: 15px;
+  padding-bottom: 10px;
+}
+.first-content button {
+  background-color: hsl(0, 0%, 95%);
+  color: hsl(31, 77%, 52%);
+  font-size: 15px;
+}
+.second-content {
+  background-color: hsl(184, 100%, 22%);
+  padding: 0cm;
+  height: 50vh;
+}
+.second-content h4 {
+  color: hsl(0, 0%, 95%);
+  font-size: 15px;
+}
+.second-content p {
+  color: hsla(0, 0%, 100%, 0.75);
+  font-size: 15px;
+  padding-bottom: 15px;
+}
+.second-content button {
+  background-color: hsl(0, 0%, 95%);
+  color: hsl(184, 100%, 22%);
+  font-size: 15px;
+}
+
+.third-content {
+  background-color: hsl(179, 100%, 13%);
+  padding: 0cm;
+  height: 50vh;
+}
+.third-content h4 {
+  color: hsl(0, 0%, 95%);
+  font: size 15px;
+}
+.third-content p {
+  color: hsla(0, 0%, 100%, 0.75);
+  font-size: 15px;
+  padding-bottom: 15px;
+}
+.third-content button {
+  background-color: hsl(0, 0%, 95%);
+  color: hsl(179, 100%, 13%);
+  font-size: 15px;
+}
